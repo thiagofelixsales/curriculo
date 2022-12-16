@@ -1,0 +1,42 @@
+.titulo  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: var(--branco);
+    text-align: center;
+    background-image: url(./img/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg);
+    
+    background-position: cover;
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.titulo__principal {
+    font-family: var(--montserrat);
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    margin-bottom: 1.5rem;
+}
+
+.titulo__texto {
+    font-size: 1.25rem;
+    line-height: normal;
+    font-family: var(--montserrat);
+
+    margin: 0 auto 2.5rem;
+}
+
+.titulo__botao {
+    width: 100%;
+}
+
+.botao.botao:hover{
+    background-color: white ;
+    transform: scale(1.1);
+    transition: all 0.5s;
+    color: black;
+
+}

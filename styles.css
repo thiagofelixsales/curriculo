@@ -1,0 +1,40 @@
+/*
+.topo{
+background-color: black;
+height: 100px;
+
+}
+.topo__lista{
+    display: flex;
+    justify-content: end;
+    margin: 25px 25px 0 0;
+    
+        
+}
+
+.topo__link{
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 72px;
+}
+
+.titulo__texto{
+    font-size: 18px;
+    width: 50%;
+   display: inline-block;      
+}
+
+.titulo__imagem{
+    margin-left: 25%;
+}
+/*

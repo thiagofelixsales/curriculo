@@ -1,0 +1,25 @@
+.container{
+    
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.container_caixa_lateral{
+    width: 250px;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.container_caixa_lateral p{
+    width: 90%;
+    
+    text-align: justify;
+    margin-top: 15px;
+}
